@@ -1,7 +1,6 @@
 package main
 
 import "fmt"
-import "github.com/shopspring/decimal"
 
 func main() {
 	var Y int16 = 32767
